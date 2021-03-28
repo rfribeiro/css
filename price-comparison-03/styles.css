@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    background: #2d2d2d;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.hover-table-layout {
+    display: flex;
+    flex-wrap: wrap;
+    max-width:800px;
+    margin:0 auto;
+}
+
+.listing-item {
+    display: block;
+    width:100%;
+    margin-bottom:20px;
+    background: #fff;
+    border-radius:10px;
+    z-index:0;
+    cursor:pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.10);
+ }
+
+ .listing-item:hover,  .listing-item.active{
+    transform: scale(1.03);
+    transition: all 0.3s;
+	z-index:2;
+}
+
+.listing-item .listing{
+    padding:20px;
+    position:relative;
+}
+
+.listing-item .listing:before{
+    content:"";
+	position:absolute;
+	top:-15px;
+	left:calc(50% - 15px);
+	border-bottom:20px solid #fff;
+	border-left:20px solid transparent;
+	border-right:20px solid transparent;
+    /* background: tomato; */
+}
+
+figure.image img {
+    width:100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+figure.image {
+    position: relative;
+	margin: 0;
+    padding: 0;
+}
+
+figure.image figcaption {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    bottom: 4px;
+	background: rgba(0,0,0,0.6);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    /* background: tomato; */
+}
+
+figcaption .caption{
+	position:relative;
+	top:80%;
+	transform:translateY(-105%);
+    margin: 0;
+}
+
+figcaption h1{
+
+    color:white;
+    font-weight:bold;
+    /* font-size:2rem; */
+    font-size:16px;
+    text-transform: uppercase;
+}
+
+figcaption p{
+    color:white;
+    /* font-size:1.15rem; */
+    font-size:12px;
+}
+
+.listing h4 {
+    font-size: 13px;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.listing h4:not(:last-child){
+    border-bottom: 1px solid #ccc;
+ }
+ .listing-item:hover figure.image figcaption{
+    background: rgba(195, 39, 43, 0.6);
+ }
+
+ @media only screen and (min-width:540px){
+	.listing-item {
+        display: block;
+        width: calc(100%/3);
+	}
+}
+@media only screen and (min-width:1024px){
+	.hover-table-layout{
+        padding: 30px;
+	}
+}
