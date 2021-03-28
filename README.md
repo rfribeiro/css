@@ -14,7 +14,7 @@
 
 - [x] [Web dev simplified](./price-comparison-02)
 
-- [ ] [Awsome design](./price-comparison-03)
+- [x] [Awsome design](./price-comparison-03)
 
 ## Animated Load Spinner
 - [ ] [Web dev simplified](https://www.youtube.com/watch?v=ssncc31DMG4)
