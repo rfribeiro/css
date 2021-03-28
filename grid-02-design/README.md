@@ -3,7 +3,8 @@
 The idea is to create a design to explore grid feature from CSS. It is based on the design developed and implemented by Origamid on [Youtube channel](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 
 
-![Layout](https://storage.googleapis.com/rfribeiro-css/grid-02-design/presentation.gif)
+<img src="https://storage.googleapis.com/rfribeiro-css/grid-02-design/presentation.jpg" width="640">
+<img src="https://storage.googleapis.com/rfribeiro-css/grid-02-design/presentation.gif" width="640">
 
 
 # 🚀 Live

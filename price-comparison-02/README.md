@@ -5,7 +5,8 @@ The idea is to create a design to explore nice design price comparison table. It
 )
 
 
-![Layout](https://storage.googleapis.com/rfribeiro-css/price-comparison-02/presentation.gif)
+<img src="https://storage.googleapis.com/rfribeiro-css/price-comparison-02/presentation.png" width="640">
+<img src="https://storage.googleapis.com/rfribeiro-css/price-comparison-02/presentation.gif" width="640">
 
 
 # 🚀 Live
