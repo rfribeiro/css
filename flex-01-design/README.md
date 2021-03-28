@@ -8,4 +8,4 @@ The idea is to create a design to explore flex feature from CSS. It is based on 
 
 # 🚀 Live
 
-Check the live design [HERE]()
+Check the live design [HERE](https://storage.googleapis.com/rfribeiro-css/flex-01-design/index.html)
