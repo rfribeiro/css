@@ -5,7 +5,13 @@ The idea is to create a design to explore nice design price comparison table. It
 )
 
 
+# 📸 Screenshot
+
 <img src="https://storage.googleapis.com/rfribeiro-css/price-comparison-02/presentation.png" width="640">
+
+
+# 🎥 Movie
+
 <img src="https://storage.googleapis.com/rfribeiro-css/price-comparison-02/presentation.gif" width="640">
 
 
