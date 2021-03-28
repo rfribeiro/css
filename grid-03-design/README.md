@@ -1,16 +1,11 @@
-# 🎨 HTML/CSS Design - Automotive website
+# 🎨 HTML/CSS Design - Flex Grid layout with side by side wrap images
 
-The idea is to create a design for an automotive website using HTML and CSS based on the design developed by Adrian Twarog using Figma on his [Youtube channel](https://www.youtube.com/watch?v=lf_vL-TNOEk)
-
-
-![Automotive](Automotive.png)
+The idea is to create a design to explore grid feature from CSS. It is based on the design developed and implemented by Origamid on [Youtube channel](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 
 
-Figma design [HERE](https://www.figma.com/file/QmyHjqAZ49tuncZq1kDhK7/10-Website-Designs-in-1-hour---Design-Challenge?node-id=1%3A158)
-
-I followed the [Florin Pop guide](https://www.youtube.com/watch?v=Rz-rey4Q1bw)
+![Layout](presentation.gif)
 
 
 # 🚀 Live
 
-Check the live design [HERE](https://10websites-design-to-html-css.netlify.app/automotive-car-design/index.html)
+Check the live design [HERE](https://storage.googleapis.com/rfribeiro-css/grid-03-design/index.html)
