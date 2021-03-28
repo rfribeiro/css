@@ -3,7 +3,7 @@
 The idea is to create a design to explore sticky feature from CSS. It is based on the design developed and implemented by Web Dev Simplified on [Youtube channel](https://www.youtube.com/watch?v=NzjU1GmKosQ)
 
 
-![Layout](presentation.gif)
+![Layout](https://storage.googleapis.com/rfribeiro-css/sticky-design/presentation.gif)
 
 
 # 🚀 Live
