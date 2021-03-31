@@ -1,19 +1,17 @@
 
 # CSS Study
 
-# Flex Layout
+## Flex Layout
 - [x] [Simple Flex Layout](./flex-01-design)
 
-# Grid Layout
+## Grid Layout
 - [x] [Top Images with Small Ones Below](./grid-01-design)
 - [x] [Main Image with Side List Images](./grid-01-design)
 - [x] [Side Images With Overlaped Transparent Text](./grid-03-design)
 
 ## Pricing Comparison Table
 - [x] [Simple one](./price-comparison-01)
-
 - [x] [Web dev simplified](./price-comparison-02)
-
 - [x] [Awsome design](./price-comparison-03)
 
 ## Animated Load Spinner
@@ -22,10 +20,13 @@
 ## Sticky Header
 - [x] [Sticky Header](./sticky-design)
 
-## Menu
+## Menus
+- [x] [Basic Side Bar Menu](./menu-01)
+- [x] [Responsive Menu](./menu-02)
+- [x] [Hamburguer Side Bar Menu](./menu-03)
+- [x] [Hamburguer Side Bar Menu Circle](./menu-04)
 - [ ] [Navigation Drawer](https://www.youtube.com/watch?v=Az_TbiPAyDs)
-- [ ] [Hamburguer Menu](https://github.com/abarna-codespot/Hamburger-Menu)
-- [ ] []()
+- [ ] [Dashboard Sidebar Menu](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
 
 ## Clipping
 - [ ] [Simple Clipping](https://www.youtube.com/watch?v=G6Dd8yviOt0&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=36)
@@ -50,11 +51,9 @@
 - [ ] [Website With Background Video](https://www.youtube.com/watch?v=xekZXhumB0k&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=11)
 
 ## Animation
-
 - [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY&list=RDCMUClb90NQQcskPUGDIXsQEz5Q&index=31)
 
 ## Glassmorphism
-
 - [ ] [Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=hv0rNxr1XXk) 
 - [ ] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
 
@@ -62,7 +61,6 @@
 - [ ] [A Team Section On website](https://www.youtube.com/watch?v=0MdVody20rY&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=21)
 - [ ] [Animated Page Slider](https://www.youtube.com/watch?v=9fFpyHbmDBY&list=PLjwm_8O3suyNbHi9Pejofd3J2h-1p0GLp&index=22)
 - [ ] [Creative Product Card UI Design](https://www.youtube.com/watch?v=jUByQLfakJ8)
-- [ ] []()
 - [ ] []()
 
 
