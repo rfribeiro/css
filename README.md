@@ -25,7 +25,10 @@
 - [x] [Responsive Menu](./menu-02)
 - [x] [Hamburguer Side Bar Menu](./menu-03)
 - [x] [Hamburguer Side Bar Menu Circle](./menu-04)
+- [x] [Hamburguer Side Bar Menu Circle Full](./menu-06)
+- [x] [Hamburguer Menu Horizontal](./menu-05)
 - [ ] [Navigation Drawer](https://www.youtube.com/watch?v=Az_TbiPAyDs)
+- [ ] [Navigation Menu with Background Color Change](https://www.youtube.com/watch?v=xYNYGETrHJM)
 - [ ] [Dashboard Sidebar Menu](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
 
 ## Clipping
