@@ -27,26 +27,28 @@
 - [x] [Hamburguer Side Bar Menu Circle](./menu-04)
 - [x] [Hamburguer Side Bar Menu Circle Full](./menu-06)
 - [x] [Hamburguer Menu Horizontal](./menu-05)
-- [ ] [Navigation Drawer](https://www.youtube.com/watch?v=Az_TbiPAyDs)
-- [ ] [Navigation Menu with Background Color Change](https://www.youtube.com/watch?v=xYNYGETrHJM)
+- [x] [Navigation Drawer](./menu-07)
+- [x] [Navigation Menu with Background Color Change](./menu-08)
 - [ ] [Dashboard Sidebar Menu](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
 
+
 ## Clipping
-- [ ] [Simple Clipping](https://www.youtube.com/watch?v=G6Dd8yviOt0&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=36)
-- [ ] []()
+- [x] [Simple Clipping](https://www.youtube.com/watch?v=G6Dd8yviOt0)
+- [x] [Curved/Custom DIV Shape Tutorial](https://www.youtube.com/watch?v=3owx2vJHkv4)
+- [x] [CSS Clip Path Hover Circle Hover Effects](https://www.youtube.com/watch?v=fvfy-4vQK5M)
 
 ## Image Gallery
 - [ ] [Image Slider](https://codepen.io/Schepp/pen/WNbQByE)
 - [ ] [Simple image slider](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 - [ ] [Image slider with thumbnails](https://codepen.io/siiron/pen/QWwLoMy)
 - [ ] [Image slider with background change](https://www.youtube.com/watch?v=y0XHdEeEevs)
-- [ ] [Image Gallery](https://www.youtube.com/watch?v=Gf81XHerzJo&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=20)
-- [ ] [Image Gallery Design With Caption](https://www.youtube.com/watch?v=m91pL94YLvg&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=9)
-- [ ] [Image Cards With Hover Effect](https://www.youtube.com/watch?v=E2TW4ZxXrsI&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=37)
-- [ ] [Flip cards with 3D effect](https://www.youtube.com/watch?v=uGgRhKN5_Ao&list=PLjwm_8O3suyOwElnplQ3quKEHsOuHyP9R&index=11)
+- [ ] [Image Gallery](https://www.youtube.com/watch?v=Gf81XHerzJo)
+- [ ] [Image Gallery Design With Caption](https://www.youtube.com/watch?v=m91pL94YLvg)
+- [ ] [Image Cards With Hover Effect](https://www.youtube.com/watch?v=E2TW4ZxXrsI)
+- [ ] [Flip cards with 3D effect](https://www.youtube.com/watch?v=uGgRhKN5_Ao)
 
 ## Video Gallery
-- [ ] [Create a video gallery](https://www.youtube.com/watch?v=wnseY8goQoc&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih)
+- [ ] [Create a video gallery](https://www.youtube.com/watch?v=wnseY8goQoc)
 - [ ] [Video Caption Hover Effects](https://www.youtube.com/watch?v=Qf3pza8ZhcA)
 
 ## Background Video
@@ -54,15 +56,15 @@
 - [ ] [Website With Background Video](https://www.youtube.com/watch?v=xekZXhumB0k&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=11)
 
 ## Animation
-- [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY&list=RDCMUClb90NQQcskPUGDIXsQEz5Q&index=31)
+- [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY)
 
 ## Glassmorphism
 - [ ] [Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=hv0rNxr1XXk) 
 - [ ] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
 
 # Others
-- [ ] [A Team Section On website](https://www.youtube.com/watch?v=0MdVody20rY&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=21)
-- [ ] [Animated Page Slider](https://www.youtube.com/watch?v=9fFpyHbmDBY&list=PLjwm_8O3suyNbHi9Pejofd3J2h-1p0GLp&index=22)
+- [ ] [A Team Section On website](https://www.youtube.com/watch?v=0MdVody20rY)
+- [ ] [Animated Page Slider](https://www.youtube.com/watch?v=9fFpyHbmDBY)
 - [ ] [Creative Product Card UI Design](https://www.youtube.com/watch?v=jUByQLfakJ8)
 - [ ] []()
 
