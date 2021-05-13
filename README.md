@@ -31,41 +31,41 @@
 - [x] [Navigation Menu with Background Color Change](./menu-08)
 - [ ] [Dashboard Sidebar Menu](https://www.youtube.com/watch?v=DvpSKoCyN5Q)
 
-
 ## Clipping
-- [x] [Simple Clipping](https://www.youtube.com/watch?v=G6Dd8yviOt0)
-- [x] [Curved/Custom DIV Shape Tutorial](https://www.youtube.com/watch?v=3owx2vJHkv4)
-- [x] [CSS Clip Path Hover Circle Hover Effects](https://www.youtube.com/watch?v=fvfy-4vQK5M)
+- [x] [Simple Clipping](./clip-01)
+- [x] [Curved/Custom DIV Shape Tutorial](./clip-02)
+- [x] [CSS Clip Path Hover Circle Hover Effects](./clip-03)
 
-## Image Gallery
-- [ ] [Image Slider](https://codepen.io/Schepp/pen/WNbQByE)
-- [ ] [Simple image slider](https://www.youtube.com/watch?v=FZrHoAUkHpE)
-- [ ] [Image slider with thumbnails](https://codepen.io/siiron/pen/QWwLoMy)
-- [ ] [Image slider with background change](https://www.youtube.com/watch?v=y0XHdEeEevs)
-- [ ] [Image Gallery](https://www.youtube.com/watch?v=Gf81XHerzJo)
-- [ ] [Image Gallery Design With Caption](https://www.youtube.com/watch?v=m91pL94YLvg)
-- [ ] [Image Cards With Hover Effect](https://www.youtube.com/watch?v=E2TW4ZxXrsI)
+## Image Gallery / Cards
+- [x] [Image Cards With Hover Effect](./image-slider-00)
+- [x] [Simple image slider](./image-slider-01)
+- [x] [Image slider with thumbnails and background change](./image-slider-02)
+- [x] [Image Slider change automatically](./image-slider-03)
+- [x] [Animated Image Slider](./image-slider-05) 
+- [x] [Image Gallery Design With Caption](./image-slider-06)
+- [x] [Responsive Card Hover Effects](./image-slider-07)
+- [x] [Responsive Image Slider With Next & Previous Buttons](./image-slider-08)
 - [ ] [Flip cards with 3D effect](https://www.youtube.com/watch?v=uGgRhKN5_Ao)
 
 ## Video Gallery
-- [ ] [Create a video gallery](https://www.youtube.com/watch?v=wnseY8goQoc)
-- [ ] [Video Caption Hover Effects](https://www.youtube.com/watch?v=Qf3pza8ZhcA)
+- [x] [Create a video gallery](./video-gallery-01)
+- [x] [Video Caption Hover Effects](./video-gallery-02)
+- [x] [Video Slider Using CSS And Vanilla Javascript](./video-gallery-03)
 
 ## Background Video
-- [ ] [Web dev simplified](https://www.youtube.com/watch?v=y9ITxSzjZUc)
-- [ ] [Website With Background Video](https://www.youtube.com/watch?v=xekZXhumB0k&list=PLPyP3A7jzgoUoaAIPyvgZFWZr04BbBgih&index=11)
+- [ ] [Website With Background Video](https://www.youtube.com/watch?v=xekZXhumB0k)
+- [ ] [Place Image or Video Inside Silhouette Image](https://www.youtube.com/watch?v=l9Me4mro0iQ)
 
 ## Animation
 - [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY)
 
 ## Glassmorphism
-- [ ] [Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=hv0rNxr1XXk) 
 - [ ] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
+- [ ] [Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=XeX1vsaufF0) 
 
 # Others
 - [ ] [A Team Section On website](https://www.youtube.com/watch?v=0MdVody20rY)
 - [ ] [Animated Page Slider](https://www.youtube.com/watch?v=9fFpyHbmDBY)
 - [ ] [Creative Product Card UI Design](https://www.youtube.com/watch?v=jUByQLfakJ8)
-- [ ] []()
 
 
