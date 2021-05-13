@@ -1,6 +1,6 @@
 # 🎨 HTML/CSS Design - Video Slider Using CSS And Vanilla Javascript
 
-The idea is to create a design to explore how to build a Video Slider using CSS. 
+The idea is to create a design to explore how to build a Video carousel using CSS. 
 
 It is based on the design developed and implemented  on [Online Tutorials Youtube Channel](https://www.youtube.com/watch?v=7gEJTwsH6kw)
 

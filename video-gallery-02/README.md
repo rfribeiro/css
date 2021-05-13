@@ -1,6 +1,6 @@
 # 🎨 HTML/CSS Design - Video Caption Hover Effects using Html and CSS Only 
 
-The idea is to create a design to explore how to build a menu using CSS. 
+The idea is to create a design to explore how to build a video with caption hover effect using CSS. 
 
 It is based on the design developed and implemented  on [Online Tutorials Youtube Channel](https://www.youtube.com/watch?v=Qf3pza8ZhcA)
 

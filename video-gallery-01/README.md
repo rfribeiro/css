@@ -1,6 +1,6 @@
 # 🎨 HTML/CSS Design - Video Gallery In HTML And CSS
 
-The idea is to create a design to explore how to build a menu using CSS. 
+The idea is to create a design to explore how to build a video gallery using CSS. 
 
 It is based on the design developed and implemented  on [Easy Tutorials Youtube Channel](https://www.youtube.com/watch?v=wnseY8goQoc)
 

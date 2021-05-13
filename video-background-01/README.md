@@ -1,6 +1,6 @@
 # 🎨 HTML/CSS Design - Website With Background Video Using HTML and CSS
 
-The idea is to create a design to explore how to build a Background Video using CSS. 
+The idea is to create a design to explore how to build a video in background using CSS. 
 
 It is based on the design developed and implemented  on [Easy Tutorials Youtube Channel](https://www.youtube.com/watch?v=xekZXhumB0k)
 

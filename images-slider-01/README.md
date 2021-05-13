@@ -1,6 +1,6 @@
 # 🎨 HTML/CSS Design -  Image Slideshow Tutorial - CSS Only
 
-The idea is to create a design to explore how to build a menu using CSS. 
+The idea is to create a design to explore how to build an image carousel using CSS. 
 
 It is based on the design developed and implemented  on [Clever Techie Youtube Channel](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 
