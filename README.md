@@ -53,7 +53,7 @@
 - [x] [Video Slider Using CSS And Vanilla Javascript](./video-gallery-03)
 
 ## Background Video
-- [ ] [Website With Background Video](https://www.youtube.com/watch?v=xekZXhumB0k)
+- [x] [Website With Background Video](./video-background-01)
 - [ ] [Place Image or Video Inside Silhouette Image](https://www.youtube.com/watch?v=l9Me4mro0iQ)
 
 ## Animation
