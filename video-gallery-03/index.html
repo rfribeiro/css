@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Video Slider</title>
+</head>
+
+<body>
+    <section>
+        <video id="slider" autoplay muted loop>
+            <source src="./media/bg1.mp4" type="video/mp4">
+        </video>
+        <ul class="navigation">
+            <li onclick="playVideo('./media/bg1.mp4')">
+                <img src="./images/thumb1.png" class="thumb">
+                <img src="./images/play.png" class="play-btn">
+            </li>
+            <li onclick="playVideo('./media/bg2.mp4')">
+                <img src="./images/thumb2.png" class="thumb">
+                <img src="./images/play.png" class="play-btn">
+            </li>
+            <li onclick="playVideo('./media/bg3.mp4')">
+                <img src="./images/thumb3.png" class="thumb">
+                <img src="./images/play.png" class="play-btn">
+            </li>
+            <li onclick="playVideo('./media/bg4.mp4')">
+                <img src="./images/thumb4.png" class="thumb">
+                <img src="./images/play.png" class="play-btn">
+            </li>
+        </ul>
+    </section>
+    <script>
+        function playVideo(newVideo) {
+            document.getElementById("slider").src = newVideo
+        }
+    </script>
+</body>
+
+</html>
