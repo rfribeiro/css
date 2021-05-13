@@ -37,14 +37,14 @@
 - [x] [CSS Clip Path Hover Circle Hover Effects](./clip-03)
 
 ## Image Gallery / Cards
-- [x] [Image Cards With Hover Effect](./image-slider-00)
-- [x] [Simple image slider](./image-slider-01)
-- [x] [Image slider with thumbnails and background change](./image-slider-02)
-- [x] [Image Slider change automatically](./image-slider-03)
-- [x] [Animated Image Slider](./image-slider-05) 
-- [x] [Image Gallery Design With Caption](./image-slider-06)
-- [x] [Responsive Card Hover Effects](./image-slider-07)
-- [x] [Responsive Image Slider With Next & Previous Buttons](./image-slider-08)
+- [x] [Image Cards With Hover Effect](./images-slider-00)
+- [x] [Simple image slider](./images-slider-01)
+- [x] [Image slider with thumbnails and background change](./images-slider-02)
+- [x] [Image Slider change automatically](./images-slider-03)
+- [x] [Animated Image Slider](./images-slider-05) 
+- [x] [Image Gallery Design With Caption](./images-slider-06)
+- [x] [Responsive Card Hover Effects](./images-slider-07)
+- [x] [Responsive Image Slider With Next & Previous Buttons](./images-slider-08)
 - [ ] [Flip cards with 3D effect](https://www.youtube.com/watch?v=uGgRhKN5_Ao)
 
 ## Video Gallery
