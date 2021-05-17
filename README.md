@@ -14,9 +14,6 @@
 - [x] [Web dev simplified](./price-comparison-02)
 - [x] [Awsome design](./price-comparison-03)
 
-## Animated Load Spinner
-- [ ] [Web dev simplified](https://www.youtube.com/watch?v=ssncc31DMG4)
-
 ## Sticky Header
 - [x] [Sticky Header](./sticky-design)
 
@@ -54,18 +51,28 @@
 
 ## Background Video
 - [x] [Website With Background Video](./video-background-01)
-- [ ] [Place Image or Video Inside Silhouette Image](https://www.youtube.com/watch?v=l9Me4mro0iQ)
+- [x] [Place Image or Video Inside Silhouette Image](./video-background-02)
 
 ## Animation
+- [x] [Animated Load Spinner](./animation-01)
+- [ ] [Three types of Spinners](https://www.youtube.com/watch?v=BxpjA9t4dJE)
 - [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY)
 
 ## Glassmorphism
-- [ ] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
-- [ ] [Glassmorphism Card Hover Effects](https://www.youtube.com/watch?v=XeX1vsaufF0) 
+- [x] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
+- [x] [Glassmorphism Credit Card Hover Effects](https://www.youtube.com/watch?v=XeX1vsaufF0) 
 
 # Others
-- [ ] [A Team Section On website](https://www.youtube.com/watch?v=0MdVody20rY)
-- [ ] [Animated Page Slider](https://www.youtube.com/watch?v=9fFpyHbmDBY)
-- [ ] [Creative Product Card UI Design](https://www.youtube.com/watch?v=jUByQLfakJ8)
+- [x] [A Team Section On website](./others-01)
+- [ ] [Animated Page Slider](./others-02)
+- [x] [Creative Product Card UI Design](./others-03)
 
 
+<!-- 
+Responsive Product Card UI Design
+https://www.youtube.com/watch?v=-y8YJ5a6scU
+
+Product Card UI Design
+https://www.youtube.com/watch?v=vXSPLN1-hng 
+
+-->
