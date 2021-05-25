@@ -55,16 +55,16 @@
 
 ## Animation
 - [x] [Animated Load Spinner](./animation-01)
-- [ ] [Three types of Spinners](https://www.youtube.com/watch?v=BxpjA9t4dJE)
+- [x] [Three types of Spinners](./animation-02)
 - [ ] [Animate Bike SVG](https://www.youtube.com/watch?v=gWai7fYp9PY)
 
 ## Glassmorphism
-- [x] [Creative Our Team Section](https://www.youtube.com/watch?v=Q22Tli-D4mw)
-- [x] [Glassmorphism Credit Card Hover Effects](https://www.youtube.com/watch?v=XeX1vsaufF0) 
+- [x] [Creative Our Team Section](./glassmorphism-01)
+- [x] [Glassmorphism Credit Card Hover Effects](./glassmorphism-02) 
 
 # Others
 - [x] [A Team Section On website](./others-01)
-- [ ] [Animated Page Slider](./others-02)
+- [x] [Animated Page Slider](./others-02)
 - [x] [Creative Product Card UI Design](./others-03)
 
 
